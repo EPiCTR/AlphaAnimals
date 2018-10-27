@@ -1,5 +1,5 @@
 # AlphaAnimals
-Alpha Animals mod for RimWorld 1.0
+Alpha Animals mod
 
 Fork form https://github.com/juanosarg/AlphaAnimals thank A Friend for your mod. :D
 
